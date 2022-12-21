@@ -12,8 +12,11 @@
 :pushpin:[Pandas](https://github.com/a-matos/pandas-challenge.git)
   ######   - Pandas / Python / Reports
   
-  :pushpin:[Excel](https://github.com/a-matos/excel-challenge.git)
+:pushpin:[Excel](https://github.com/a-matos/excel-challenge.git)
   ######   - Formulas / Charts / Pivot Tables / Conditionals
+  
+:pushpin:[VBA](https://github.com/a-matos/VBA-challenge.git)
+  ######   - VBA
   
   
   
