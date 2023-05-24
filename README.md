@@ -6,6 +6,9 @@
 :pushpin:[Project: Housing Market in ON](https://github.com/a-matos/project_1-team_12.git)
   ######  - Python / API / Pandas / Jupyter Notbook / Matplotlib / Hvplot / Scipy.stats
  
+:pushpin:[Tableau](https://github.com/a-matos/Tableau.git)
+  ######  - Visualizations
+ 
 :pushpin:[Project: ETL](https://github.com/a-matos/Project_Crowdfunding_ETL.git)
   ######   - Extract / Transform / Load
   
