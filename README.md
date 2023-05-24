@@ -13,7 +13,7 @@
   ######   - Extract / Transform / Load
   
 :pushpin:[SQL](https://github.com/a-matos/sql-challenge.git)
-  ######   - Data Modeling / Data Engineering / Data Analysis
+  ######   - Data Modeling / Data Engineering / Data Analysis / Schema / Diagram
   
 :pushpin:[Python](https://github.com/a-matos/python-challenge.git)
   ######   - Python
