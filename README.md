@@ -1,5 +1,5 @@
 # Andreza dos Santos
-:envelope: LinkedIn: https://www.linkedin.com/in/andreza-dos-santos-a3609b44
+:envelope: [LinkedIn](https://www.linkedin.com/in/andreza-dos-santos-a3609b44)
 
 # Portfolio
 
