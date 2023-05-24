@@ -8,6 +8,9 @@
  
 :pushpin: [Project: Comparing Supervised Machine Learning Algorithms for Breast Cancer Diagnosis](https://github.com/Ahmadhha/UTOR_Project4_Team5.git)
   ######  - Machine Learning / Tableau / Data Extraction 
+ 
+:pushpin: [Pokémon Go! Catch Game Analysis](https://github.com/a-matos/Project-Pokemon_Catch_Game_Analysis.git)
+  ######  - ETL / API / Web Scraping / SQL / JavaScript / HTML / CSS
 
 :pushpin:[Tableau](https://github.com/a-matos/Tableau.git)
   ######  - Visualizations
