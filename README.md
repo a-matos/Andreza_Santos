@@ -1,5 +1,7 @@
-# Andreza dos Santos
-:envelope: [LinkedIn](https://www.linkedin.com/in/andreza-dos-santos-a3609b44)
+
+![image](https://github.com/a-matos/Andreza_Santos/assets/114877740/ec457bdc-1e75-41b0-b109-abc71ff4c588)
+
+   :envelope: [LinkedIn](https://www.linkedin.com/in/andreza-dos-santos-a3609b44)              
 
 # Portfolio
 
